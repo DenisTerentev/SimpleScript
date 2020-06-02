@@ -1,0 +1,11 @@
+C:\Users\Денис\source\repos\SimpleSkript\SimpleSkript\bin\Debug\SimpleSkript.exe.config
+C:\Users\Денис\source\repos\SimpleSkript\SimpleSkript\bin\Debug\SimpleSkript.exe
+C:\Users\Денис\source\repos\SimpleSkript\SimpleSkript\bin\Debug\SimpleSkript.pdb
+C:\Users\Денис\source\repos\SimpleSkript\SimpleSkript\obj\Debug\SimpleSkript.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\SimpleSkript\SimpleSkript\obj\Debug\SimpleSkript.Form1.resources
+C:\Users\Денис\source\repos\SimpleSkript\SimpleSkript\obj\Debug\SimpleSkript.ObjectionForm.resources
+C:\Users\Денис\source\repos\SimpleSkript\SimpleSkript\obj\Debug\SimpleSkript.Properties.Resources.resources
+C:\Users\Денис\source\repos\SimpleSkript\SimpleSkript\obj\Debug\SimpleSkript.csproj.GenerateResource.cache
+C:\Users\Денис\source\repos\SimpleSkript\SimpleSkript\obj\Debug\SimpleSkript.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\SimpleSkript\SimpleSkript\obj\Debug\SimpleSkript.exe
+C:\Users\Денис\source\repos\SimpleSkript\SimpleSkript\obj\Debug\SimpleSkript.pdb
